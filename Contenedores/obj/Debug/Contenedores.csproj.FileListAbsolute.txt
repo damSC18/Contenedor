@@ -1,0 +1,40 @@
+I:\Verano2019\.net\Ejercicios\Contenedores\Contenedores\bin\Debug\Contenedores.exe.config
+I:\Verano2019\.net\Ejercicios\Contenedores\Contenedores\bin\Debug\Contenedores.exe
+I:\Verano2019\.net\Ejercicios\Contenedores\Contenedores\bin\Debug\Contenedores.pdb
+I:\Verano2019\.net\Ejercicios\Contenedores\Contenedores\obj\Debug\Contenedores.csprojAssemblyReference.cache
+I:\Verano2019\.net\Ejercicios\Contenedores\Contenedores\obj\Debug\MainWindow.g.cs
+I:\Verano2019\.net\Ejercicios\Contenedores\Contenedores\obj\Debug\App.g.cs
+I:\Verano2019\.net\Ejercicios\Contenedores\Contenedores\obj\Debug\Contenedores_MarkupCompile.cache
+I:\Verano2019\.net\Ejercicios\Contenedores\Contenedores\obj\Debug\Contenedores_MarkupCompile.lref
+I:\Verano2019\.net\Ejercicios\Contenedores\Contenedores\obj\Debug\MainWindow.baml
+I:\Verano2019\.net\Ejercicios\Contenedores\Contenedores\obj\Debug\Contenedores.g.resources
+I:\Verano2019\.net\Ejercicios\Contenedores\Contenedores\obj\Debug\Contenedores.Properties.Resources.resources
+I:\Verano2019\.net\Ejercicios\Contenedores\Contenedores\obj\Debug\Contenedores.csproj.GenerateResource.cache
+I:\Verano2019\.net\Ejercicios\Contenedores\Contenedores\obj\Debug\Contenedores.csproj.CoreCompileInputs.cache
+I:\Verano2019\.net\Ejercicios\Contenedores\Contenedores\obj\Debug\Contenedores.exe
+I:\Verano2019\.net\Ejercicios\Contenedores\Contenedores\obj\Debug\Contenedores.pdb
+I:\Curso 19_20\DI_DAM\UT1\Ejercicios\Contenedores\Contenedores\bin\Debug\Contenedores.exe.config
+I:\Curso 19_20\DI_DAM\UT1\Ejercicios\Contenedores\Contenedores\bin\Debug\Contenedores.exe
+I:\Curso 19_20\DI_DAM\UT1\Ejercicios\Contenedores\Contenedores\bin\Debug\Contenedores.pdb
+I:\Curso 19_20\DI_DAM\UT1\Ejercicios\Contenedores\Contenedores\obj\Debug\MainWindow.g.cs
+I:\Curso 19_20\DI_DAM\UT1\Ejercicios\Contenedores\Contenedores\obj\Debug\App.g.cs
+I:\Curso 19_20\DI_DAM\UT1\Ejercicios\Contenedores\Contenedores\obj\Debug\Contenedores_MarkupCompile.cache
+I:\Curso 19_20\DI_DAM\UT1\Ejercicios\Contenedores\Contenedores\obj\Debug\Contenedores_MarkupCompile.lref
+I:\Curso 19_20\DI_DAM\UT1\Ejercicios\Contenedores\Contenedores\obj\Debug\MainWindow.baml
+I:\Curso 19_20\DI_DAM\UT1\Ejercicios\Contenedores\Contenedores\obj\Debug\Contenedores.g.resources
+I:\Curso 19_20\DI_DAM\UT1\Ejercicios\Contenedores\Contenedores\obj\Debug\Contenedores.Properties.Resources.resources
+I:\Curso 19_20\DI_DAM\UT1\Ejercicios\Contenedores\Contenedores\obj\Debug\Contenedores.csproj.GenerateResource.cache
+I:\Curso 19_20\DI_DAM\UT1\Ejercicios\Contenedores\Contenedores\obj\Debug\Contenedores.csproj.CoreCompileInputs.cache
+I:\Curso 19_20\DI_DAM\UT1\Ejercicios\Contenedores\Contenedores\obj\Debug\Contenedores.exe
+I:\Curso 19_20\DI_DAM\UT1\Ejercicios\Contenedores\Contenedores\obj\Debug\Contenedores.pdb
+I:\Curso 19_20\DI_DAM\UT1\Ejercicios\Contenedores\Contenedores\obj\Debug\Contenedores.csprojAssemblyReference.cache
+I:\Curso 19_20\DI_DAM\UT1\Ejercicios\Contenedores\Contenedores\obj\Debug\Rejilla.g.cs
+I:\Curso 19_20\DI_DAM\UT1\Ejercicios\Contenedores\Contenedores\obj\Debug\Rejilla.baml
+I:\Curso 19_20\DI_DAM\UT1\Ejercicios\Contenedores\Contenedores\obj\Debug\responsive.baml
+I:\Curso 19_20\DI_DAM\UT1\Ejercicios\Contenedores\Contenedores\obj\Debug\responsive.g.cs
+I:\Curso 19_20\DI_DAM\UT1\Ejercicios\Contenedores\Contenedores\obj\Debug\GeneratedInternalTypeHelper.g.cs
+I:\Curso 19_20\DI_DAM\UT1\Ejercicios\Contenedores\Contenedores\obj\Debug\ControlesXaml.g.cs
+I:\Curso 19_20\DI_DAM\UT1\Ejercicios\Contenedores\Contenedores\obj\Debug\ControlesXaml.baml
+I:\Curso 19_20\DI_DAM\UT1\Ejercicios\Contenedores\Contenedores\bin\Debug\Newtonsoft.Json.dll
+I:\Curso 19_20\DI_DAM\UT1\Ejercicios\Contenedores\Contenedores\bin\Debug\Newtonsoft.Json.xml
+I:\Curso 19_20\DI_DAM\UT1\Ejercicios\Contenedores\Contenedores\obj\Debug\Contenedores.csproj.CopyComplete

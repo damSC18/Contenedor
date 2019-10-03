@@ -126,5 +126,33 @@ namespace Contenedores
         {
             listaEmpleados.Items.Remove(elementoBuscado);
         }
+
+        private void seleccionFecha(object sender, SelectionChangedEventArgs e)
+        {
+            // cajaFecha.Text = objetoFecha.SelectedDate.ToString();
+            cajaFecha.Text = objetoFecha.Text;
+        }
+
+        private void EstablecerFinalCalendario(object sender, RoutedEventArgs e)
+        {
+            Calendario.DisplayDateEnd = DateTime.Parse(cajaFecha.Text);
+            //DisplayDateStart = "1/3/2010"
+            // DisplayDateEnd = "31/03/2010"
+            MessageBox.Show(Calendario.DisplayDateEnd.ToString());
+
+        }
+
+        private void EstablecerInicioCalendario(object sender, RoutedEventArgs e)
+        {
+            Calendario.DisplayDateStart = DateTime.Parse(cajaFecha.Text);
+        }
+
+        private void EstablecerFechaCalendario(object sender, RoutedEventArgs e)
+        {
+            // Calendario.DisplayDate = DateTime.Parse("04/10/2019");
+            Calendario.DisplayDate = DateTime.Parse(cajaFecha.Text);
+            Calendario.SelectedDate = DateTime.Parse(cajaFecha.Text);
+            MessageBox.Show(Calendario.DisplayDate.ToString());
+        }
     }
 }

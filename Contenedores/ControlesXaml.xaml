@@ -5,11 +5,11 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Contenedores"
         mc:Ignorable="d"
-        Title="ControlesXaml" Height="450" Width="800">
+        Title="ControlesXaml" Height="802" Width="799">
     <Window.Resources>
         <local:Apuntes x:Key="data"/>
     </Window.Resources>
-    <Canvas>
+    <Canvas Margin="0,0,-8,-31">
         <Button Content="Botón Normal" Click="BotonNormal" Height="50" Width="100"/>
         <RepeatButton Content="Botón de repetición" Click="BotonRepeticion" Height="50" Canvas.Left="125" Width="100"/>
         <Label x:Name="Mensajes" Content="Mensajes" Height="35" Canvas.Top="15" Width="435" Canvas.Left="255"/>
@@ -39,6 +39,16 @@
         <TextBox x:Name="cajaEmpleado" Height="23" Canvas.Left="235" TextWrapping="Wrap" Text="Empleado" Canvas.Top="196" Width="135"/>
         <Button Content="AñadeEmpleado&#xD;&#xA;" Canvas.Left="385" Canvas.Top="199" Width="85" Height="20" Click="AñadirEmpleado"/>
         <Button Content="Borra Elemento Seleccioando" Canvas.Left="235" Canvas.Top="224" Width="235" Click="BorraElementoSeleccionado"/>
+        <Calendar x:Name="Calendario" Canvas.Left="570" Canvas.Top="85" SelectedDatesChanged="seleccionFecha" SelectionMode="MultipleRange" DisplayDateStart="2019-10-01" DisplayDateEnd="2019-10-04" DisplayDate="2019-10-01"/>
+        <DatePicker x:Name="objetoFecha" Canvas.Left="570" Canvas.Top="300" Width="179" SelectedDateChanged="seleccionFecha"/>
+        <Label Content="Fecha" Canvas.Left="570" Canvas.Top="262"/>
+        <TextBox x:Name="cajaFecha" Height="23" Canvas.Left="629" TextWrapping="Wrap" Canvas.Top="266" Width="120"/>
+        <WebBrowser Height="140" Canvas.Left="35" Canvas.Top="465" Width="745" Source="{x:Null}"/>
+        <Button x:Name="FechaInicial" Content="Inicio Calendario" Canvas.Left="450" Canvas.Top="266" Width="75" Click="EstablecerInicioCalendario"/>
+        <Button x:Name="FechaFinal" Content="Final Calendario" Canvas.Left="450" Canvas.Top="291" Width="75" Click="EstablecerFinalCalendario"/>
+        <Button x:Name="FechaActual" Content="Fecha Actual" Canvas.Left="450" Canvas.Top="320" Width="75" Height="20" Click="EstablecerFechaCalendario"/>
+        <Label Content="https://www.c-sharpcorner.com/UploadFile/mahesh/using-xaml-datepicker-in-wpf/" Canvas.Left="65" Canvas.Top="380" Width="684"/>
+        <Label Content="https://www.c-sharpcorner.com/UploadFile/mahesh/xaml-calendar/" Canvas.Left="65" Canvas.Top="411" Width="650"/>
 
 
 
